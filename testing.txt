@@ -1,5 +1,5 @@
 testing
-im testing
+I'm testing.
 another line
 and yet another
 conflict here
