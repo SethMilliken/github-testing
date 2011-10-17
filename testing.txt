@@ -2,3 +2,4 @@ testing
 another line
 and yet another
 conflict here
+another line here
