@@ -90,31 +90,31 @@ way. We should each be able use the tools we are already most familiar and
 comfortable with&emdash;and which are much better suited to the task&emdash;to
 edit our documentation as well. A GitHub wiki makes this very easy.
 
-*    Using GitHub for documentation further consolidates our work management
-     toolset. We are already using GitHub for our code and code reviews.
+*   Using GitHub for documentation further consolidates our work management
+    toolset. We are already using GitHub for our code and code reviews.
 
-*    Yet it also leverages the flexibility and breadth of all of the great
-     features of a text-based distributed version control system by virtue of
-     its git underpinnings, including:
+*   Yet it also leverages the flexibility and breadth of all of the great
+    features of a text-based distributed version control system by virtue of
+    its git underpinnings, including:
 
-         * Contents accessible with the entire arsenal of tools already at our
-         fingertips for editing, search, and replace.
+    * Contents accessible with the entire arsenal of tools already at our
+      fingertips for editing, search, and replace.
 
-         * Great diffing, version history, merging, branching, and confict
-         resolution facilities.
+    * Great diffing, version history, merging, branching, and confict
+      resolution facilities.
 
-         * Much less chance of mistaken deletions or undetected edits.
+    * Much less chance of mistaken deletions or undetected edits.
 
-         * Offline access.
+    * Offline access.
 
-*     Nearly all of the tools that drive the wiki engine are open source
-      projects that accept and even encourage contributions via pull requests.
+*   Nearly all of the tools that drive the wiki engine are open source
+    projects that accept and even encourage contributions via pull requests.
 
-*     Multiple markup formats are available, and can even be mixed and matched,
-      if so desired.
+*   Multiple markup formats are available, and can even be mixed and matched,
+    if so desired.
 
-*     We could script updates to documentation in a clean, controlled way to
-      keep it in sync with our related code changes automatically.
+*   We could script updates to documentation in a clean, controlled way to
+    keep it in sync with our related code changes automatically.
 
     ____
 
