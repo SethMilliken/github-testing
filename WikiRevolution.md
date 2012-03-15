@@ -3,7 +3,7 @@ Wiki Revolution
 
 tl;dr
 --------------------------------------------------------------------------------
-Google Sites sucks, let's switch to a GitHub wiki pronto.
+Google Sites sucks; let's switch to a GitHub wiki pronto.
 
 
 Declaration of Indisposition
@@ -61,7 +61,7 @@ up-to-date.
 
 *   Creating and maintaining links between pages is laborious, painstaking work.
 
-*   Essentially, Google sites is not a even a genuine wiki, missing some of the
+*   Essentially, Google Sites is not a even a genuine wiki, missing some of the
     most essential features of a wiki: fast, easy, simple shared editing; pages
     created and linked automatically with WikiWords alone.
 
@@ -93,8 +93,8 @@ Arguments In Favor of GitHub Wiki
 --------------------------------------------------------------------------------
 
 Our documentation is arguably as important as our code. We should treat it that
-way. We should each be able use the tools we are already most familiar and
-comfortable with&emdash;and which are much better suited to the task&emdash;to
+way. We should each be able to use the tools we are already most familiar and
+comfortable with&mdash;and which are much better suited to the task&mdash;to
 edit our documentation as well. A GitHub wiki makes this very easy.
 
 *   Using GitHub for documentation further consolidates our work management
