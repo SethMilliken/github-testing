@@ -49,6 +49,13 @@ up-to-date.
     prone. Doing anything more complicated than writing unadorned blocks of
     text requires editing raw html in order to get acceptable results.
 
+*   Futhermore, Google Site's use of html as the base document format is a gross
+    violation of the fundamental principles of encapsulation and separation of
+    data from presentation that we hold dear as responsible software designers. And
+    this violation is especially grievous when the tools provided for WYSIWIG editing
+    generate beneath the rendered façade an increasingly mangled mess of tag soup
+    that makes subsequent revision ever more onerous.
+
 *   Google Sites version history is awkward, unwieldy, inefficient, unclear,
     and inaccessible to existing diff tools.
 
