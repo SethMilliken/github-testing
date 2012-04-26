@@ -7,3 +7,4 @@ and yet another
 conflict here
 another line here
 bad news: this will be a conflict
+test
