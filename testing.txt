@@ -7,3 +7,6 @@ and yet another
 conflict here
 another line here
 bad news: this will be a conflict
+
+Pull request test forced-push rebase.
+Another test, with amended force-push.
